@@ -3,3 +3,6 @@ this is my first git hub text note.
 try to add some thing here
 
 add a bit more
+
+
+after 1st commit
